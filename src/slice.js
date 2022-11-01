@@ -8,6 +8,8 @@ export let slices = createSlice({
       { name: "alphanse", age: 24 },
       { name: "arul", age: 9 },
       { name: "kemal", age: 28 },
+      { name: "Rahul", age: 19 },
+      { name: "arun", age: 22 },
     ],
   },
 
